@@ -42,3 +42,4 @@ plugins:
 #  - jekyll-feed
 theme: jekyll-theme-slate
 remote_theme: thelehhman/texture
+theme: texture
