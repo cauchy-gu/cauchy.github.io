@@ -18,9 +18,8 @@ texture:
   tagline: 欢迎，这里是ξ的个人博客，会不定时更新ξ个人创作的故事等内容
   date_format: "%b %-d, %Y"
   style: blue
-  showNav: true
+  showNav: false
   showPicker: false
-  disqus_shortname: games
   # generate social links in footer
   social_links:
     QQ: 981130268
