@@ -15,10 +15,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: ξ的个人博客
-  tagline: 欢迎，这里是ξ的个人博客，会不定时更新ξ个人创作的故事等内容
-  社交账号：qq：981130268
-           哔哩哔哩uid：23027694
-           微博：E_Blood
+  tagline: 欢迎，这里是ξ的个人博客，会不定时更新ξ个人创作的故事等内容\n社交账号：qq：981130268\n哔哩哔哩uid：23027694\n微博：E_Blood
   date_format: "%b %-d, %Y"
   style: blue
   showNav: false
