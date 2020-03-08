@@ -18,7 +18,7 @@ texture:
   tagline: 欢迎，这里是ξ的个人博客，会不定时更新ξ个人创作的故事等内容
   date_format: "%b %-d, %Y"
   style: blue
-  showNav: false
+  showNav: true
   showPicker: false
   # generate social links in footer
   social_links:
