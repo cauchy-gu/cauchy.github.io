@@ -22,7 +22,6 @@ texture:
   showPicker: false
   # generate social links in footer
   social_links:
-    github:  cauchy-gu
     rss: rss
  
 
