@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title:  "少女前线同人 失落的碎片"
 date:   2020-04-09 16:30:00 +0800
 ---
