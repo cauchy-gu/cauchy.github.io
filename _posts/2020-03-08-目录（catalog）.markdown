@@ -7,4 +7,4 @@ date:   2020-04-09 17:30:00 +0800
  + [第一章][lostchips]
 
 
-[lostchips]:cauchygu.cn/posts/2020-04-09-lostchips(1).markdown/
+[lostchips]:http://cauchygu.cn/posts/lostchips(1)/
