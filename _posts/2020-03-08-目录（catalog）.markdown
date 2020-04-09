@@ -7,4 +7,4 @@ date:   2020-04-09 17:30:00 +0800
  + [第一章][lostchips]
 
 
-[lostchips]:http://cauchygu.cn/posts/%E5%A4%B1%E8%90%BD%E7%9A%84%E7%A2%8E%E7%89%87(1)/
+[lostchips]:http://cauchygu.cn/posts/失落的碎片(1)/
