@@ -3,6 +3,8 @@ layout: post
 title:  "目录（catalog）"
 date:   2020-03-08 12:20:00 +0800
 ---
-[Hello World!][helloworld]
+- 少女前线同人 失落的碎片
+ + [第一章][lostchips]
 
-[helloworld]:http://cauchygu.cn/posts/hellowworld/
+
+[lostchips]:http://http://cauchygu.cn/posts/%E5%A4%B1%E8%90%BD%E7%9A%84%E7%A2%8E%E7%89%87(1)/
