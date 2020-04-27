@@ -4,7 +4,7 @@ title:  "目录（catalog）"
 date:   2020-04-09 17:30:00 +0800
 ---
 - 少女前线同人 失落的碎片
- + [第一章][lostchips]
+  + [第一章][lostchips]
 
 
 [lostchips]:http://cauchygu.cn/posts/lostchips(1)/
