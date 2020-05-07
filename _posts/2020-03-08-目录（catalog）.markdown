@@ -3,7 +3,7 @@ layout: post
 title:  "目录（catalog）"
 date:   2020-05-07 12:30:00 +0800
 ---
-+[抓不到羊的狼与种不出粮食的农户][microstory1]
+- [抓不到羊的狼与种不出粮食的农户][microstory1]
 - 少女前线同人 失落的碎片
   + [第一章][lostchips]
 
