@@ -3,10 +3,11 @@ layout: post
 title:  "目录（catalog）"
 date:   2020-05-07 12:30:00 +0800
 ---
-- [舰队总长访谈录-水果刀作战]
+- [舰队总长访谈录-水果刀作战][fruitknife]
 - [抓不到羊的狼与种不出粮食的农户][microstory1]
 - 少女前线同人 失落的碎片
   + [第一章][lostchips]
 
 [lostchips]:http://cauchygu.cn/posts/lostchips(1)/
 [microstory1]:http://cauchygu.cn/posts/%E6%8A%93%E4%B8%8D%E5%88%B0%E7%BE%8A%E7%9A%84%E7%8B%BC%E4%B8%8E%E7%A7%8D%E4%B8%8D%E5%87%BA%E7%B2%AE%E9%A3%9F%E7%9A%84%E5%86%9C%E6%88%B7/
+[fruitknife]:http://cauchygu.cn/posts/%E8%88%B0%E9%98%9F%E6%80%BB%E9%95%BF%E8%AE%BF%E8%B0%88%E5%BD%95-%E6%B0%B4%E6%9E%9C%E5%88%80%E4%BD%9C%E6%88%98/
